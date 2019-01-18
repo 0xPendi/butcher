@@ -1,0 +1,12 @@
+{
+    "id" : "butcher",
+    "version" : "0.1.0",
+    "displayName" : "butcher Faction",
+    "description" : "Content related to butcher Faction.",
+    "dependencies" :  
+	[
+        {
+            "id" : "core"
+        }
+    ]
+}

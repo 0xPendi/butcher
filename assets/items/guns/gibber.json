@@ -1,0 +1,24 @@
+{
+    "fixed": false,
+    "maxAngleVar": 5,
+    "angleVarDamp": 10,
+    "angleVarPerShot": 1,
+    "timeBetweenShots": 0.33,
+    "reloadTime": 2,
+    "price": 300,
+    "clipName": "butcher:gibberClip",
+    "gunLength": 0.1,
+    "displayName": "Gibber",
+    "lightOnShot": true,
+  
+    "shootSounds": 
+    [
+        "core:fixedGunShoot0",
+        "core:fixedGunShoot1"
+    ],
+  
+    "reloadSounds": 
+    [
+        "core:fixedGunReload"
+    ]
+}

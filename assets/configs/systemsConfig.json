@@ -1,0 +1,14 @@
+{
+    "standard": 
+    {
+        "constantAllies": 
+        [
+            {
+            "hull": "butcher:lacerator",
+            "items": "core:bigShield",
+            "money": 120,
+            "density": 2
+            }
+        ]
+    }
+}

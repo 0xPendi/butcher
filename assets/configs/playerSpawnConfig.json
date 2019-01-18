@@ -1,0 +1,29 @@
+{
+    "Lacerator": 
+    {
+       "hull": "butcher:lacerator",
+        "items": "6*rep core:mediumArmor-1 core:bigShield-1 butcher:gibber-1",
+        "money": 300
+    },
+ 
+    "Mutilator": 
+    {
+        "hull": "butcher:mutilator",
+        "items": "6*rep core:mediumArmor-1 core:bigShield-1 butcher:gibber-1",
+        "money": 300
+    },
+    
+    "Maimer":
+    {
+        "hull": "butcher:maimer",
+        "items": "6*rep core:mediumArmor-1 core:bigShield-1 butcher:gibber-1",
+        "money": 300
+    },
+
+    "Sanguinary":
+    {
+        "hull": "butcher:sanguinary",
+        "items": "6*rep core:mediumArmor-1 core:bigShield-1 butcher:gibber-1",
+        "money": 300
+    }
+}

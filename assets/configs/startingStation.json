@@ -1,0 +1,11 @@
+{
+    "hull" : "butcher:station",
+    "items" : "butcher:gibber",
+ 
+    "guard":
+    {
+        "hull": "butcher:maimer",
+        "items": "butcher:gibber core:fixedShotGun core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
+        "density": 1
+    }
+}
